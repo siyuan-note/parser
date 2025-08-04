@@ -1,4 +1,4 @@
-module github.com/siyuan-note/parser
+module github.com/siyuan-note/dataparser
 
 go 1.24.4
 
